@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762579938722",
+    "firebase_url": "https://devicepairing-55aa9.firebaseio.com",
+    "project_id": "devicepairing-55aa9",
+    "storage_bucket": "devicepairing-55aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762579938722:android:7b2ac0071b44bfc7",
+        "android_client_info": {
+          "package_name": "com.devicepairing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762579938722-f1imfs50bkv6teva9k50e3nsnqik3e2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devicepairing",
+            "certificate_hash": "5d313db275c6abd1e08ce47313c218879982918f"
+          }
+        },
+        {
+          "client_id": "762579938722-lfdfok9qpf1mstt6aln22qrc4dq25hlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU751KqzgH7d5YUNVZgAAa9pnu0J-_zxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762579938722-lfdfok9qpf1mstt6aln22qrc4dq25hlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
